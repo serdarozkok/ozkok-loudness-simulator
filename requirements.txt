@@ -1,0 +1,8 @@
+PySide6>=6.5
+pyloudnorm>=0.1.1
+soundfile>=0.12
+av>=12.0
+sounddevice>=0.4
+scipy>=1.10
+numpy>=1.24
+pyqtgraph>=0.13
