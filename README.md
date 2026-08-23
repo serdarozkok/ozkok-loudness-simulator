@@ -19,6 +19,12 @@
    - **Delta (Δ):** Kayıplı sıkıştırma (Ogg/AAC) yüzünden seste meydana gelen net farkı duymanızı sağlar.
 4. **Export:** Seçtiğiniz platform ayarlarına göre işlenmiş sesi dışa aktarmak için sağ alttaki `Export WAV` butonunu kullanın.
 
+   <img width="1916" height="1002" alt="image" src="https://github.com/user-attachments/assets/baae5ef5-765a-43b5-8627-fc76b21fac92" />
+
+   <img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/ea4121ce-c755-46a6-bede-8f39ff4b4e6b" />
+
+
+
 ## ⚙️ Arka Planda Neler Oluyor?
 OZKOK Loudness Simulator, sadece basit bir ses kısma aracı değildir. Yüklediğiniz dosya üzerinde iki aşamalı profesyonel bir DSP (Digital Signal Processing - Dijital Sinyal İşleme) zinciri çalıştırır:
 
